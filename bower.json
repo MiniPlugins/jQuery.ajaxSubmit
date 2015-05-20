@@ -1,0 +1,28 @@
+{
+  "name": "jQuery.ajaxSubmit",
+  "main": "jQuery.ajaxSubmit.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MiniPlugins/jQuery.ajaxSubmit",
+  "authors": [
+    "Óscar Otero oom@oscarotero.com>",
+    "Berto Yáñez <berto@ber.to>"
+  ],
+  "description": "AJAX form submit made easy",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jquery",
+    "ajax",
+    "forms",
+    "submit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
